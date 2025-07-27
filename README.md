@@ -19,6 +19,7 @@ Fast, batch-supported LLM translation API powered by Groq’s ultra-low latency 
 * 📝 Built-in **feedback logging**
 
 ---
+![Flowchart](./assets/translator-flow.png)
 
 ## 📁 Project Structure
 
