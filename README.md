@@ -19,7 +19,7 @@ Fast, batch-supported LLM translation API powered by Groq’s ultra-low latency 
 * 📝 Built-in **feedback logging**
 
 ---
-![Flowchart](./assets/translator-flow.png)
+![LECL Translator Flow](https://github.com/Yash49hdfmj/Lanchain_expression_language_translator/blob/main/assets/images/LECL_Translator.png?raw=true)
 
 ## 📁 Project Structure
 
