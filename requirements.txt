@@ -1,0 +1,12 @@
+openai
+groq
+requests
+huggingface_hub
+langchain
+langchain-core
+langchain-groq
+fastapi
+uvicorn
+python-dotenv
+pydantic>=2.1
+langserve
